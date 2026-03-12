@@ -5,8 +5,8 @@ export const portfolioData: PortfolioData = {
   title: "Editor Video AI & Creative Developer",
   bio: "A highly dedicated professional in video editing and creative development. Expert in crafting high-quality visual content and leveraging AI technologies to drive innovation and efficiency in digital media.",
   email: "vinz.official9922@gmail.com",
-  phone: "+62 812 3456 7890",
-  linkedin: "https://linkedin.com/in/vinzofficial",
+  phone: "+62 877 8540 4383",
+  linkedin: "https://www.linkedin.com/in/moh-bashory-989637310/",
   profileImage: "https://picsum.photos/seed/profile/400/400",
   experiences: [
     {
